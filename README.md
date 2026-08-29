@@ -22,21 +22,7 @@ Power Query:	Data cleaning and transformation
 GitHub:	Version control and documentation
 
 
-Key KPIs:
-
-KPI	Value	Unit
-Total Customers	[add]	count
-Total Revenue	[add]	$
-Total Interest Earned	[add]	$
-Activation Rate	[add]	%
-Delinquency Rate	[add]	%
-Avg Utilization Ratio	[add]	%
-
-
-Key Findings:
-
-
-Project Sructure:
+Project Structure:
 
 Credit-Card-Financial-Dashboard/
 ├── data/
